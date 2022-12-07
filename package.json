@@ -1,9 +1,9 @@
 {
   "name": "react-docker-skeleton",
   "version": "1.0.0",
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "server.js",
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --web",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"
